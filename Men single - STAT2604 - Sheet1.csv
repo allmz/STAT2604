@@ -1,0 +1,11 @@
+Ranking ,Name,Gender,Points,Height,Age,Hands,Weights,Head to Head,Ace,Serve,Double Faluts,First Serve Perc ,First Serve Won Perc,Second Serve Won Perc,BP SVD Perc,Service Points Won Perc,Service Games Won Perc,Service Games Played ,Return Points Won Perc,First Return Points Won Perc,Second Return Points Won Perc,BP CONV Perc,Return Games Won Perc,Return Games Played
+1,Novak Djokovic,M,11045,188,36,R,77,3-0,305,292.7,132,64,76,58,68,70,88,637,42,34,54,42,31,618
+2,Carlos Alcaraz,M,8625,183,20,R,74,3-0,283,281.7,156,65,72,57,65,67,85,837,43,36,54,40,33,828
+3,Daniil Medvedev,M,7200,198,27,R,83,4-1,524,278.0,298,64,75,50,66,66,85,877,42,34,54,47,32,875
+4,Jannik Sinner,M,5410,188,22,R,76,4-0,397,282.0,123,60,76,56,69,68,87,842,41,33,55,42,30,834
+5,Andrey Rublev,M,4935,188,26,R,75,3-0,568,278.8,142,61,76,51,63,66,85,959,39,30,52,40,25,951
+6,Stefanos Tsitsipas,M,4435,193,25,R,90,3-0,513,292.4,148,64,78,55,65,70,89,883,35,27,49,39,20,867
+7,Holger Rune,M,4280,188,20,R,77,2-1,306,273.4,240,62,72,53,64,65,83,765,37,29,49,39,22,762
+8,Casper Ruud,M,3705,183,24,R,81,2-0,315,276.5,165,63,71,54,67,65,83,772,38,30,51,39,24,761
+9,Alexander Zverev,M,3540,198,26,R,90,4-0,557,282.6	,215,70,74,49,63,67,84,883,38,29,52,37,24,890
+10,Taylor Fritz,M,3500,196,26,R,86,3-0,684,287.6,164,59,79,55,66,69,87,926,38,28,53,42,23,901
